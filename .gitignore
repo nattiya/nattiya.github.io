@@ -1,2 +1,5 @@
 _site/
 
+.DS_Store
+Gemfile.lock
+images/profile2.png
