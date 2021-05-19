@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Short CV
 
 Education
 ======
@@ -31,10 +30,65 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Areas of Expertise
+  * Information Retrieval
+  * Semantic Search
+  * Machine Learning
+  * NLP
+  * User Behavior Analysis
+* NLP/Semantic Tools
+  * Ontologies
+  * OpenNLP
+  * Glove
+  * Word2vec
+  * DBpedia
+  * TagMe
+  * WikiMiner
+* Machine Learning Tools
+  * RankLib
+  * Spark MLlib
+  * XGBoost
+  * FastText
+  * PyTorch
+  * Scikit-learn
+  * Matplotlib
+* Big Data Processing Tools
+  * Databricks
+  * Hadoop
+  * Spark
+  * MapReduce
+  * Kafka
+  * Hive
+  * Pig
+  * GraphX
+  * Pegasus
+* Search Engines/Databases
+  * Lucene
+  * Solr
+  * ElasticSearch
+  * AeroSpike
+  * HBase
+  * MySQL
+  * PostgreSQL
+* Programming Languages
+  * Java
+  * Scala
+  * Python
+  * R
+  * SQL
+  * C
+  * C++
+  * JavaScript
+  * JSP
+  * PHP
+  * Perl
+  * HTML
+* Development Tools
+  * IntelliJ
+  * Eclipse
+  * Gradle
+  * Maven
+  * SVN
+  * Gitlab
+  * Docker
+  * Kubernetes
