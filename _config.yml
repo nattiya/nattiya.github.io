@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nattiya Kanhabua, PhD"
 title_separator          : "-"
 name                     : &name "Nattiya Kanhabua"
-description              : &description "Senior Data Scientist"
+description              : &description "Data Science Consultant at SCG, Thailand"
 url                      : https://nattiya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nattiya.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Nattiya Kanhabua"
-  avatar           : "profile.png"
-  bio              : "I am passionate about NLP, semantic search, query understanding, user interests, and fairness in AI."
+  avatar           : "profile.jpeg"
+  bio              : "Highly skilled data scientist with more than 10 years of research experience in information retrieval, recommender system, machine learning and natural language processing, and 5+ years of industrial experience in developing large-scale web applications and marketplace optimization. I am passionate about search and recommendation, data analytics, user behavior studies, explainability, interpretability, and ethics of AI systems."
   location         : "Thailand"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nattiya"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/nattiyak"
+  twitter          : "nattiyak"
   vine             :
   weibo            :
   xing             :
