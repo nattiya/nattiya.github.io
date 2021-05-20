@@ -7,8 +7,6 @@ redirect_from:
   - /talks
 ---
 
-{% include base_path %}
-
 Talks
 ======
 * TBD

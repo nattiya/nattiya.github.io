@@ -7,8 +7,6 @@ redirect_from:
   - /project
 ---
 
-{% include base_path %}
-
 Current Projects
 ======
 * BigThailand.com

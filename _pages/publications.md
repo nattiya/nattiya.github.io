@@ -11,4 +11,4 @@ redirect_from:
 
 Publications
 ======
-* https://scholar.google.com/citations?user=ydcgV2oAAAAJ&hl=en
+* Google Scholar: https://scholar.google.com/citations?user=ydcgV2oAAAAJ&hl=en
