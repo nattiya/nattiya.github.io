@@ -7,13 +7,13 @@ redirect_from:
   - /project
 ---
 
-Current Projects
 ======
+Current Projects
 * BigThailand.com
 * NocNoc.com
 
-Past Projects
 ======
+Past Projects
 * Alexandria: Foundations for Temporal Retrieval, Exploration and Analytics in Web Archives
   * Description: ERC Advanced Grant Project, 2014 - 2019
 * ForgetIT: Concise Preservation by Combining Managed Forgetting and Contextualized Remembering
