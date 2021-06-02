@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -14,17 +14,17 @@ Current Projects
 
 Past Projects
 ======
-* Upwork User Catalog Search (UCS) Project, Dec 2020 - Mar 2021
-* Upwork User Freelancer Search (UFS) Project, Apr 2020 - Dec 2020
-* Upwork Service Profile Search Project, Oct 2019 - Apr 2020
+* <a href="https://www.upwork.com/">Upwork User Catalog Search (UCS) Project</a>, Dec 2020 - Mar 2021
+* <a href="https://www.upwork.com/">Upwork User Freelancer Search (UFS) Project</a>, Apr 2020 - Dec 2020
+* <a href="https://www.upwork.com/">Upwork Service Profile Search Project</a>, Oct 2019 - Apr 2020
 * KBTG Knowledge Management/Chatbot Project, Apr 2019 - Oct 2019
 * NTENT Web Ranking Project, Apr 2017 - Feb 2019
-* ERC Advanced Grant ALEXANDRIA Project, Mar 2014 – Aug 2015
-* EU ForgetIT Project, Feb 2013 – Aug 2015
+* <a href="http://alexandria-project.eu/">ERC Advanced Grant ALEXANDRIA Project</a>, Mar 2014 – Aug 2015
+* <a href="https://www.forgetit-project.eu/en/home/">EU ForgetIT Project</a>, Feb 2013 – Aug 2015
 * Large-Scale Temporal Search and Analytics Tools (TIMETool), Nov 2013 - Dec 2014
-* EU Personalized Event-based Surveillance Project (Medical Ecosystem), Nov 2011 - Jan 2013
-* EU LivingKnowledge Project, Mar 2010 - May 2010
-* LongRec: Records Management over Decades, Sep 2007 - Oct 2011
+* <a href="https://cordis.europa.eu/project/id/247829"><a href="">EU Personalized Event-based Surveillance Project (Medical Ecosystem)</a>, Nov 2011 - Jan 2013
+* <a href="https://cordis.europa.eu/project/id/231126">EU LivingKnowledge Facts, Opinions and Bias in Time Project</a>, Mar 2010 - May 2010
+* <a href="https://research.idi.ntnu.no/longrec/">LongRec: Records Management over Decades</a>, Sep 2007 - Oct 2011
 * Virgin Money’s Group Pension System Project, Jan 2006 - May 2006
 * eAdvisor Project, Oct 2005 - Jan 2006
 * eInvestor Project, Jun 2005 - Sep 2005
