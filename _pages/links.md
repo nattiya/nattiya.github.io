@@ -7,7 +7,7 @@ redirect_from:
   - /link
 ---
 
-News Reports/Weblogs
+News/Blogs
 ======
 * Von Ronald Meyer-Arlt, <a href="https://web.archive.org/web/20170426074425/http://www.haz.de/Nachrichten/Medien/Netzwelt/Twitter-weiss-wann-die-Grippe-kommt">Twitter wei&szlig; wann die Grippe kommt</a>, Hannoversche Allgemeine Zeitung, February 25, 2015
 * Andy Macfarlane, <a href="https://web.archive.org/web/20170426074425/http://irsg.bcs.org/informer/2015/01/conference-review-digital-libraries-2014/">Digital Libraries 2014</a>, Informer: Newsletter of the BCS IR Specialist Group, January 29, 2015
