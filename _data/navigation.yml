@@ -4,10 +4,13 @@ main:
     url: /projects/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
-  - title: "Activities"
-    url: /activities/    
+  - title: "Mentoring"
+    url: /mentoring/    
+
+  - title: "Volunteer"
+    url: /volunteer/    
   
   - title: "Publications"
     url: /publications/
@@ -15,5 +18,5 @@ main:
   - title: "Skills"
     url: /skills/
 
-  - title: "Short CV"
+  - title: "CV"
     url: /cv/
