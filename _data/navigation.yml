@@ -18,5 +18,8 @@ main:
   - title: "Skills"
     url: /skills/
 
+  - title: "Links"
+    url: /links/
+
   - title: "CV"
     url: /cv/
