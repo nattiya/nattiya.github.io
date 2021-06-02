@@ -17,7 +17,7 @@ Past Projects
 * <a href="https://www.upwork.com/">Upwork User Catalog Search (UCS) Project</a>, Dec 2020 - Mar 2021
 * <a href="https://www.upwork.com/">Upwork User Freelancer Search (UFS) Project</a>, Apr 2020 - Dec 2020
 * <a href="https://www.upwork.com/">Upwork Service Profile Search Project</a>, Oct 2019 - Apr 2020
-* KBTG Knowledge Management/Chatbot Project, Apr 2019 - Oct 2019
+* KBTG Knowledge Management and Chatbot Project, Apr 2019 - Oct 2019
 * NTENT Web Ranking Project, Apr 2017 - Feb 2019
 * <a href="http://alexandria-project.eu/">ERC Advanced Grant ALEXANDRIA Project</a>, Mar 2014 – Aug 2015
 * <a href="https://www.forgetit-project.eu/en/home/">EU ForgetIT Project</a>, Feb 2013 – Aug 2015
