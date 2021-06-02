@@ -30,23 +30,6 @@ Work experience
 * Jun 2005 - May 2006: Analyst programmer, International Financial Data Services, IFDS Group, Essex, UK
 * Nov 2002 - Jul 2003:   Research assistant, Kasetsart University, Thailand
 * May 2001 - Sep 2002: System analyst, Accenture, Thailand & Singapore
-  
-Skills
-======
-* Areas of Expertise
-  * Information Retrieval, Semantic Search, Machine Learning, NLP, User Behavior Analysis
-* NLP/Semantic Tools
-  * Ontologies, OpenNLP, Glove, Word2vec, DBpedia, TagMe, WikiMiner, BERT
-* ML Tools
-  * RankLib, Spark MLlib, XGBoost, FastText, PyTorch, Scikit-learn, Matplotlib
-* Big Data Processing Tools
-  * Databricks, Hadoop, Spark, MapReduce, Kafka, Hive, Pig, GraphX, Pegasus
-* Search Engines/Databases
-  * Lucene, Solr, ElasticSearch, AeroSpike, HBase, MySQL, PostgreSQL
-* Programming Languages
-  * Java, Scala, Python, R, SQL, C, C++, JavaScript, JSP, PHP, Perl, HTML
-* Development Tools
-  * IntelliJ, Eclipse, Gradle, Maven, SVN, Gitlab, Docker, Kubernetes
 
 Scholarships and Awards
 ======
@@ -56,13 +39,3 @@ Scholarships and Awards
 * 1998 - 2000: Kasetsart University Excellence Academic Records, Thailand
 * 1997 - 2000: Full Tuition Scholarships for Five Semesters with High GPAs, Kasetsart University, Thailand
 * 1999: Siam Cement Good Academic Performance, SCG, Thailand
-
-Certificates
-======
-* 2021: Machine Learning Data Lifecycle in Production Course by DeepLearning.AI
-* 2021: Introduction to Machine Learning in Production (MLOps) Course by DeepLearning.AI
-* 2019: Empathy Listening (Leadership Development Program), KASIKORN Business-Technology Group (KBTG)
-* 2019: Excellence to Information Security Management, KASIKORN Business-Technology Group (KBTG)
-* 2019: Negotiation for Success (Leadership Development Program), KASIKORN Business-Technology Group (KBTG)
-* 2018: Deep Learning Specialization Course by deeplearning.ai
-* 2015 - 2016: Pedagogical Competence Development Program, Aalborg University, Denmark
