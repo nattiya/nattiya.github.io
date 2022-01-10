@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Jul 2021 - present: Principal Digital Technology Evangelist, SCG CBM, Bangkok, Thailand
+* Jul 2021 - present: Principal Digital Technology Evangelist, WEDO, SCG CBM, Bangkok, Thailand
 * Apr 2021 - Jun 2021: Data Science Consultant, SCG CBM, Bangkok, Thailand
 * Oct 2019 - Mar 2021: Senior Data Scientist (remote), Upwork, Bangkok, Thailand
 * Apr 2019 - Oct 2019: Advanced Data Scientist, KBTG, Bangkok, Thailand

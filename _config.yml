@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nattiya Kanhabua, PhD"
 title_separator          : "-"
 name                     : &name "Nattiya Kanhabua"
-description              : &description "Data Science Consultant at SCG, Thailand"
+description              : &description "Principal Digital Technology Evangelist at WEDO, SCG CBM, Thailand"
 url                      : https://nattiya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nattiya.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SCG CBM"
+  name             : "WEDO, SCG CBM"
   avatar           : "nattiya.jpg"
   bio              : 
   location         : "Thailand"
